@@ -1,4 +1,4 @@
-# Django Logger
+# Log Maker
 
 A comprehensive Django and Django REST Framework (DRF) compatible logging package that automatically logs everything in your project - from HTTP requests and responses to model changes and authentication events.
 
