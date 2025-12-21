@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "roshan-logger"
+version = "0.2.3"
+description = "A comprehensive Django and Django REST Framework (DRF) compatible logging package that automatically logs everything in your project - from HTTP requests and responses to model changes and authentication events"
+authors = [
+    { name="AliRezaDm", email="alireza.dm80@gmail.com" }
+]
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.8"
+dependencies = []
