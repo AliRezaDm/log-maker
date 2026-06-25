@@ -23,7 +23,7 @@ support
 ## Installation
 
 ```bash
-pip install roshan-logger
+pip install .
 ```
 ## Environment Variables
 
